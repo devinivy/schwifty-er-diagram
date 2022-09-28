@@ -13,14 +13,14 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@hapi/bossy": "^6.0.0",
-    "@hapipal/schwifty": "^6.1.0"
+    "@hapi/bossy": "^6.0.0"
   },
   "devDependencies": {
     "@hapi/code": "^9.0.1",
     "@hapi/eslint-plugin": "^6.0.0",
     "@hapi/hapi": "^20.2.2",
     "@hapi/lab": "^25.0.1",
+    "@hapipal/schwifty": "^6.1.0",
     "coveralls": "^3.1.1"
   },
   "eslintConfig": {
