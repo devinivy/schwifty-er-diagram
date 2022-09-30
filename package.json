@@ -1,6 +1,6 @@
 {
   "name": "schwifty-er-diagram",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "generate ER diagrams w/ schwifty",
   "main": "lib/index.js",
   "directories": {
